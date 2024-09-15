@@ -11,7 +11,6 @@ This repository contains a Jupyter notebook for predicting sales using machine l
 - [Usage](#usage)
 - [Model and Results](#model-and-results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
